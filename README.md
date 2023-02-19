@@ -1,2 +1,2 @@
 # Leaf_Detector
-Detecting the leaves
+Detecting the leaves.
